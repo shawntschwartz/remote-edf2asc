@@ -8,7 +8,7 @@
 @Notes: Run from within the PsychoPy runner to get the automatic (correct) pylink import (works on MacOS)
 """
 
-import os, time, subprocess, pylink
+import sys, os, time, subprocess, pylink
 
 class RemoteEDF2ASC():
     '''
