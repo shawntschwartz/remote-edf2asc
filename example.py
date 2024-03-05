@@ -1,10 +1,10 @@
 """
-@Title: stmw.py
+@Title: example.py
 @Author: Shawn T. Schwartz 
 @Email: stschwartz@stanford.edu
 @Date: 3/5/2024
 @Links: https://shawnschwartz.com
-@Description: Remotely yank EDFs from an EyeLink Host PC and convert them to plain-text ASCII (ASC) on the fly.
+@Description: Example file to remotely yank EDFs from an EyeLink Host PC and convert them to plain-text ASCII (ASC) on the fly.
 """
 
 import argparse, importlib
